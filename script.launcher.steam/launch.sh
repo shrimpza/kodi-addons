@@ -5,7 +5,7 @@ pkill -9 kodi.bin
 
 pulseaudio --start
 
-/usr/bin/steam -bigpicture
+/usr/games/steam -bigpicture
 
 pulseaudio -k
 
